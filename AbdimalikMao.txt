@@ -1,5 +1,5 @@
 <span id="a">mao@dev</span>:<span id="b">~</span><span id="c">$</span> cd MaoBlogs/<!-- kjsdfhkjdhsfkjdshfkj -->Mao
-<span id="a">mao@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->cat AbdimalikMao.txt<br/><br/>
+<span id="a">mao@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->AbdimalikMao.txt<br/><br/>
 
 Hi There! This is the portfolio website for my creator Abdimalik Mao aka MaoBlogs.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am 21 years old and I am a Junior DevOps Engineer who is super interested in cloud computing.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
