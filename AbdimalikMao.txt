@@ -1,0 +1,15 @@
+<span id="a">mao@dev</span>:<span id="b">~</span><span id="c">$</span> cd MaoBlogs/<!-- kjsdfhkjdhsfkjdshfkj -->Mao
+<span id="a">mao@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->cat AbdimalikMao.txt<br/><br/>
+
+Hi There! This is the portfolio website for my creator Abdimalik Mao aka MaoBlogs.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am 21 years old and I am a Junior DevOps Engineer who is super interested in cloud computing.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I have Programming skills in JavaScript, HTML, CSS, SQL, Python and Bash. I have DevOps experience using Ansible, AWS, Chef, Git, Terraform, Jenkins, Docker, Kubernetes and Jira. 
+
+To follow my journey into DevOps please check out my blog page where I talk about my project below </p>
+
+
+<p> You can find me on: <br>  <a href="https://maoblogs.com/">BlogPage</a> <br> <a href="https://www.linkedin.com/in/abdimalik-mao-505893166/">LinkedIn</a> <br> <a href="https://github.com/AMao7>GitHub</a> <br>.</p>
+
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+
+<p>Cheers!</p>
